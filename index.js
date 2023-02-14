@@ -13,3 +13,5 @@ numeros.push(numero1, numero2);
 let divisao = numeros[0] / numeros[1]; //só pro vetor não ficar inútil
 
 alert("Divisão dos dois números: " + divisao);
+
+//Poderia ter feito com funções mas não vi necessidade
